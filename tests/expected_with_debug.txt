@@ -1,0 +1,14 @@
+var x = { y: 'z' };
+var y = 'why!';
+/* this is g! */
+/*
+This is other.js
+*/
+var other = {};
+var g = 'guh...';
+
+
+//start sleeping
+var zzz = 'sleeping';
+
+var application = {};
